@@ -12,6 +12,7 @@ public class Two_d_array {
 	            System.out.print(matrix[i][j] + " ");
 	         }
 	         System.out.println(); //change line on console as row comes to end in the matrix.
+	         System.out.println("pooja");
 	      }
 	   }
 	}
